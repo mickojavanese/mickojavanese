@@ -1,5 +1,5 @@
 // ---------------------------------------------------
-// Modification By Bagus Blog
+// Modification By mickojavanese
 // Url : http://mickojavanese.blogspot.com
 // Accordion TOC
 // ---------------------------------------------------
